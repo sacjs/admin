@@ -68,7 +68,18 @@
 
 ###### 8:30 - Meetup Ends
 
-* Closing remarks (next meetup date, topic, thank sponsors, etc.)
+* Closing remarks
+
+  Announce next meetup date, topic, thank sponsors, etc.
+
+* Module of the Month
+
+  I think it would be cool to highlight a neat module that we find useful or
+  unique. Some great sources of ideas include DailyJS.
+
+  Not only does this expose attendees to cool modules, but it can also highlight
+  the existence of NPM/Bower and the power of open source to our beginner
+  attendees.
 
 * Community cross-promotion (Angular, Famous, GDG, etc.)
 
